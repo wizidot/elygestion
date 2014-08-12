@@ -17,7 +17,7 @@
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
     <!-- Sticky Footer -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
-    
+
     <!-- Custom styles -->
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
@@ -44,7 +44,10 @@
 
   <body>
     <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
+
+
+      <div class="container">
+        <nav class="navbar navbar-default" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
@@ -71,13 +74,9 @@
           </form>
         </div><!-- /.navbar-collapse -->
       </nav>
-
-      <div class="container">
         {{ content }}
       </div>
-
     </div>
-
     <div id="footer">
       <div class="container">
         <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
