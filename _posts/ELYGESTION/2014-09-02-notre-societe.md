@@ -1,8 +1,9 @@
 ---
 layout: post
-category : lessons
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+category : elygestion
+title : "notre société"
+tagline: ""
+tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
 ---
 {% include JB/setup %}
 
