@@ -7,7 +7,7 @@ group: navigation
 <div class="container">
 <div class="row">
   <div class="col-md-12">
-  <div class="alert alert-success hidden"><strong><span class="glyphicon glyphicon-send"></span> Merci, votre message a été envoyé.</strong></div>
+  <div class="alert alert-success hidden" id="success"><strong><span class="glyphicon glyphicon-send"></span> Merci, votre message a été envoyé.</strong></div>
   <div class="alert alert-danger hidden"><span class="glyphicon glyphicon-alert"></span><strong> Oups, quelques erreurs dans le formulaire.</strong></div>
   </div>
   <form role="form" action="http://getsimpleform.com/messages?form_api_token=558a58d6d5f6be674ceb39832e01f5f0" method="post" >
@@ -63,5 +63,7 @@ group: navigation
     }
     return b;
 })(window.location.search.substr(1).split('&'));
-console.warn(qs);
+if(qs.msg){
+  document.getElementById("success").className = "alert alert-success";
+}
 </script>
