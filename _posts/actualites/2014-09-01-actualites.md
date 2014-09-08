@@ -1,7 +1,7 @@
 ---
 layout: post
-category : actualités
-title : "actualites"
+category : actualites
+title : "actualités"
 tagline: "Supporting tagline"
 tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
 ---
