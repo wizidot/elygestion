@@ -8,14 +8,14 @@ highlighter : pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : ELYGESTION
+#tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : elygestion
+  email : cotact@elygestion.com
+  github : wizidot
+#  twitter : username
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -26,11 +26,12 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://wizidot.github.io/elygestion
-categories:
-  - {name: 'elygestion', description: 'category elygestion', order: "1"}
-  - {name: 'nos actifs gérés', description: 'another category description', order:  "2"}
-  - {name: 'nos mêtiers', description: 'another category description', order: "3"}
-  - {name: 'actualités', description: 'another category description', order:  "4"}
+ELYGESTION :
+  categories:
+    - {name: 'elygestion',title: 'elygestion', description: 'category elygestion', order: 1}
+    - {name: 'nos-actifs-geres',title: 'nos actifs gérés', description: 'another category description', order: 2}
+    - {name: 'nos-metiers',title: 'nos mêtiers', description: 'another category description', order: 3}
+    - {name: 'actualites',title: 'actualités', description: 'another category description', order: 4}
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -84,7 +85,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
@@ -131,4 +132,7 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-
+  tags_list :
+    provider : "custom"
+  categories_list :
+    provider : "custom"
