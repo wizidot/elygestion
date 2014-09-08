@@ -5,19 +5,14 @@ header : Post
 group: navigation
 ---
 <div class="container">
-  <div class="row">
-    <div class="col-md-12"><h2>Lorem ipsum Non laboris Ut culpa aliqua ad nostrud in Excepteur sint reprehenderit deserunt in Ut qui dolore exercitation nulla laborum quis.</h2>
-<h3>Lorem ipsum Anim aute veniam aliquip culpa dolor magna qui amet aute dolor id exercitation non incididunt dolor anim Excepteur dolor ea sunt dolore irure sint aliqua dolor irure officia cupidatat in sunt tempor.</h3></div>
-  </div>
 <div class="row">
   <div class="col-md-12">
-  <div class="alert alert-success"><strong><span class="glyphicon glyphicon-send"></span> Merci, votre message a été envoyé.</strong></div>
-  <div class="alert alert-danger"><span class="glyphicon glyphicon-alert"></span><strong> Oups, quelques erreurs dans le formulaire.</strong></div>
+  <div class="alert alert-success invisible"><strong><span class="glyphicon glyphicon-send"></span> Merci, votre message a été envoyé.</strong></div>
+  <div class="alert alert-danger invisible"><span class="glyphicon glyphicon-alert"></span><strong> Oups, quelques erreurs dans le formulaire.</strong></div>
   </div>
   <form role="form" action="http://getsimpleform.com/messages?form_api_token=558a58d6d5f6be674ceb39832e01f5f0" method="post" >
-      <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
     <div class="col-lg-6">
-      <div class="well well-sm"><strong><i class="glyphicon glyphicon-ok form-control-feedback"></i> Required Field</strong></div>
+      <div class="well well-sm"><strong><i class="glyphicon glyphicon-ok form-control-feedback"></i> Champ requis</strong></div>
       <div class="form-group">
         <label for="InputName">Votre nom</label>
         <div class="input-group">
@@ -32,12 +27,12 @@ group: navigation
       </div>
       <div class="form-group">
         <label for="InputMessage">Votre message</label>
-        <div class="input-group"
->
+        <div class="input-group">
           <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
           <span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span></div>
       </div>
-            <input type="submit" name="submit" id="submit" value="Envoyer" class="btn btn-info pull-right">
+          <input type='hidden' name='redirect_to' value='{{BASE_PATH}}/contact.html' />
+          <input type="submit" name="submit" id="submit" value="Envoyer" class="btn btn-info pull-right">
     </div>
   </form>
   <hr class="featurette-divider hidden-lg">
@@ -55,3 +50,17 @@ group: navigation
 </div>
 
 </div>
+<script>
+  var qs = (function(a) {
+    if (a == "") return {};
+    var b = {};
+    for (var i = 0; i < a.length; ++i)
+    {
+        var p=a[i].split('=');
+        if (p.length != 2) continue;
+        b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
+    }
+    return b;
+})(window.location.search.substr(1).split('&'));
+console.warn(qs);
+</script>
