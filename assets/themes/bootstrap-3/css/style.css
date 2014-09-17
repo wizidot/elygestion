@@ -22,7 +22,7 @@
   background:#0d405e!important;
 }
 /* Jekyll Bootstrap Colors */
-h2.heading { border: 1px solid #0d405e;border-width: 4px 0 1px 0; padding-top: 10px;padding-bottom: 0px;color: #0d405e;}
+h2.heading { border: 1px solid #0d405e;border-width: 4px 0 1px 0; padding-top: 5px;padding-bottom: 0px;color: #0d405e;}
 #footer {
   background-color: #0d405e;
   color: #fff;

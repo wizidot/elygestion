@@ -23,7 +23,7 @@
   </div>
   {% endunless %}
 
-    <ul class="pagination">
+    <ul class="pagination visible-xs">
     {% if page.previous %}
       <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Précédent</a></li>
     {% else %}
@@ -35,8 +35,6 @@
       <li class="next disabled"><a>Suivant &rarr;</a>
     {% endif %}
     </ul>
-    <hr>
-    {% include JB/comments %}
   </div>
 </div>
 

@@ -2,7 +2,7 @@
 layout: post
 category : nos-metiers
 title : "Gestion technique et charges"
-image : "metiers/metier_03.png"
+image : "metiers/metier_05.png"
 tagline: ""
 tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de copropriété","Gestion d'entrepôts"]
 ---
