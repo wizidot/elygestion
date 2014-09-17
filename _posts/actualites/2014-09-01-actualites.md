@@ -10,7 +10,7 @@ tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
 <div class="row">
 {% for post in site.categories["actus"] %}
        <div class="col-md-6 col-lg-4">
-        <a href="{{post.url}}"><img src="{{ ASSET_PATH }}/actus/{{post.image}}" class="img-responsive">
+        <a href="{{BASE_PATH}}{{post.url}}"><img src="{{ ASSET_PATH }}/actus/{{post.image}}" class="img-responsive">
         <b>{{post.title}}</b>
     </a><br><br>
     </div>
