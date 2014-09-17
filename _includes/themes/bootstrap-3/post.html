@@ -28,13 +28,11 @@ Nos autres mêtiers
 {% endif %}
 </h2>
   {% unless page.tags == empty %}
-  <div class="row">
     <ul class="posts_box">
       {% assign tags_list = page.tags %}
       {% assign posts_list = site.posts %}
       {% include JB/tags_list %}
     </ul>
-  </div>
   {% endunless %}
 
     <ul class="pagination visible-xs">
