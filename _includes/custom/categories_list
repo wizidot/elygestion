@@ -6,8 +6,10 @@
       </a>
       <ul class="dropdown-menu" role="menu">
       {% for post in site.categories[category.name] %}
+        {% if post.category == category.name %}
         {% if post.url %}
           <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
         {% endif %}
       {% endfor %}
       </ul>
@@ -23,7 +25,7 @@
       <ul class="dropdown-menu" role="menu">
       {% for post in category.last %}
         {% if post.url %}
-          <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+          <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.category }}{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}
       </ul>

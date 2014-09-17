@@ -2,13 +2,14 @@
 layout: post
 category : nos-metiers
 title : "Syndicat de copropriété"
+image : "metiers/metier_03.png"
 tagline: ""
-tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
+tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de copropriété","Gestion d'entrepôts"]
 ---
 {% include JB/setup %}
 <div class="row">
     <div class="col-md-12 col-lg-12">
-        <img src="{{ ASSET_PATH }}/bootstrap/images/metiers/gestion_technique.png" class="img-responsive">
+        <img src="{{ ASSET_PATH }}/metiers/gestion_technique.png" class="img-responsive">
     </div>
     <div class="col-md-12 col-lg-12 text-center">
     <p>

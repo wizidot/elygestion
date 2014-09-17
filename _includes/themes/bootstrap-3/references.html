@@ -1,5 +1,4 @@
-
-<div class="page-header visible-xs">
+<div class="page-header">
   <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
 </div>
 
@@ -8,28 +7,15 @@
     <div class="date hidden">
       <span>{{ page.date | date_to_long_string }}</span>
     </div>
+<h2 class="heading"><span class="glyphicon glyphicon-bookmark"></span>Nos références</h2>
     <div class="content">
       {{ content }}
     </div>
-{% comment %}
-  {% unless page.categories == empty %}
-    <ul class="inline">
-      <li><i class="glyphicon-open"></i></li>
-      {% assign categories_list = page.categories %}
-      {% include JB/categories_list %}
-    </ul>
-  {% endunless %}
-{% endcomment %}
-<h2 class="heading"><span class="glyphicon glyphicon-bookmark"></span>
-{% if page.category != "nos-metiers"%}
-En savoir plus
-{% else %}
-Nos autres mêtiers
-{% endif %}
-</h2>
+
+<h2 class="heading"><span class="glyphicon glyphicon-bookmark"></span>En savoir plus</h2>
   {% unless page.tags == empty %}
   <div class="row">
-    <ul class="posts_box">
+    <ul class="nav nav-pills nav-justified posts_box">
       {% assign tags_list = page.tags %}
       {% assign posts_list = site.posts %}
       {% include JB/tags_list %}
