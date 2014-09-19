@@ -13,12 +13,14 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
     </div>
     <div class="col-md-12 col-lg-12 text-center">
     <p>
-      <h3>Gestion locative<br/>
-          Suivi juridique et financier des baux commerciaux pour le compte du bailleur</h3>
+      <h3>Gestion technique et charges<br/>
+          La gestion locative est conservée par le bailleur, les gestionnaires ont pour mission la gestion technique de l'immeuble avec ou sans gestion des charges</h3>
     <ul>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
+      <li>Gestion des parties communes d'un immeuble ou d'un site (parcs d'affaires)</li>
+      <li>Gestion d'A.S.L, A.F.U.L.</li>
+      <li>Représentaiton du syndicat dans gestion du bien immobilier</li>
+      <li>Respect des diverses règlementations juridiques (Loi 1965, Loi S.R.U.), techniques, gestion des charges</li>
+      <li>Convocations et tenues d'assemblées générales</li>
     </ul>
     </p>
 </div>

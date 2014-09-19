@@ -13,12 +13,11 @@ tags : ["Gestion locative","Gestion technique et charges","Syndicat de copropri�
         <img src="{{ ASSET_PATH }}/metiers/metiertop4_03.png" class="img-responsive">
       </div>    </div>
     <div class="col-md-12 col-lg-12 text-center">
-      <h3>Gestion locative<br/>
-          Suivi juridique et financier des baux commerciaux pour le compte du bailleur</h3>
+      <h3>Gestion locative complète<br/>
+          Gestion locative de la totalité d'un immeuble qui intègre l'aspect technique et la gestion des charges.</h3>
     <ul>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
+      <li>Technique du bâtiment : respect de nombreuses réglementations en vigueur, plan de travaux sur 5 ans, rapport technique sur la 'santé' du bâtiment, suivi des travaux, conseil...</li>
+      <li>Gestion des charges : établissement du budget, répartition des charges sur les locataires, souscription des contrats réglementaires, gestion des sinistres... des procédures, conseil au niveau des réglementations techniques.</li>
     </ul>
     </div>
 </div>

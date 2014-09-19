@@ -13,12 +13,14 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
     </div>
     <div class="col-md-12 col-lg-12 text-center">
     <p>
-      <h3>Gestion locative<br/>
-          Suivi juridique et financier des baux commerciaux pour le compte du bailleur</h3>
+      <h3>Syndicat de copropriété<br/>
+          Représentation du syndicat de propriété et administration des parties communes</h3>
     <ul>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
+      <li>Gestion des parties communes d'un immeuble ou d'un site (parcs d'affires)</li>
+      <li>Gestion d'A.S.L., A.F.U.L.</li>
+      <li>Représentation du syndicat dans la gestion du bien immobilier.</li>
+      <li>Respect des diverses règlementations juridiques (Loi 1965, Loi S.R.U.), techniques, gestion des charges</li>
+      <li>Convocations et tenues d'assemblées générales.</li>
     </ul>
     </p>
 </div>

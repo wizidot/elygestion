@@ -15,11 +15,6 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
       <hr />
     <p>
       <h3>Gestion d'entrepôts<br/>
-          Suivi juridique et financier des baux commerciaux pour le compte du bailleur</h3>
-    <ul>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-    </ul>
+          Gestion essentiellement technique de surface de stockage, logistique, avec des installations classées I.C.P.E.</h3><br/><br/>
     </p>
 </div>

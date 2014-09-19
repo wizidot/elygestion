@@ -17,9 +17,8 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
       <h3>Gestion locative<br/>
           Suivi juridique et financier des baux commerciaux pour le compte du bailleur</h3>
     <ul>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
-      <li>Dentibus Inachus illa fecerat talia, cultros capacibus lymphis; subit nisi,</li>
+      <li>Gestion comptable : appels des loyers, reversement, TVA, indexation des loyers, réévaluation des dépôts de garantie. </li>
+      <li>Gestion juridique : état des lieux, respect des clauses du bail, analyse des charges, interface bailleur/preneur, suivi des procédures, conseil au niveau des réglementations techniques.</li>
     </ul>
     </div>
 </div>
