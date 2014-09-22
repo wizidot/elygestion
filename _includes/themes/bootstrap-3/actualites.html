@@ -1,0 +1,22 @@
+
+<div class="page-header visible-xs">
+  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+</div>
+
+<div class="row post-full">
+  <div class="col-xs-12">
+    <div class="date hidden">
+      <span>{{ page.date | date_to_long_string }}</span>
+    </div>
+    <div class="content">
+      {{ content }}
+    </div>
+<h2 class="heading"><span class="glyphicon glyphicon-bookmark"></span>
+Toutes les actualités
+</h2>
+    <ul class="posts_box">
+      {% assign posts_list = site.categories["actus"] limit:4  %}
+      {% include custom/actus_list %}
+    </ul>
+</div>
+

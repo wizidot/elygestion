@@ -6,12 +6,12 @@ tagline: ""
 tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
 ---
 {% include JB/setup %}
-<div class="row">
+<div class="row"  style="color:#0d405e;">
 {% for post in site.categories["references"] %}
        <div class="col-md-6 col-lg-4">
-        <a href="{{post.url}}"><img src="{{ ASSET_PATH }}/references/{{post.image}}" class="img-responsive">
-        <b>{{post.title}}</b>
-    </a><br><br>
+        <img src="{{ ASSET_PATH }}/references/{{post.image}}" class="img-responsive">
+        <h4>{{post.title}}</h4>
+    <br><br>
     </div>
 {% endfor %}
 </div>

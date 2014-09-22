@@ -1,0 +1,21 @@
+{% for post in posts_list %}
+          <li class="col-md-3 col-xs-6">
+            {% if post.image %}
+              <div class="content">
+              <div class="thumbnail">
+              <a href="{{BASE_PATH}}{{post.url}}"><img src="{{ ASSET_PATH }}/actus/{{post.image}}" class="img-responsive"></a>
+                  <h4>{{post.title}}</h4>
+                  {{post.tagline}}
+
+              <hr>
+                  <div class="date">
+                <span>{{ post.date | date_to_long_string }}</span>
+              </div>
+              </div>
+            {%else%}
+              <div class="jumbotron">
+              <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+              </div>
+            {% endif %}
+            </li>
+{% endfor %}

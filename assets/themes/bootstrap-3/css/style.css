@@ -1,3 +1,5 @@
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{color:#0d405e;}
+
 .text-center ul {
     list-style-position: inside;
     list-style-type: square;
@@ -98,7 +100,7 @@ h2.heading { border: 1px solid #0d405e;border-width: 4px 0 1px 0; padding-top: 5
   padding: 3px 6px;
   margin: 2px;
   background: #eee;
-  color: #555;
+  color: #555!important;
   border-radius: 3px;
   text-decoration: none;
   border: 1px dashed #cccccc; }
@@ -139,7 +141,9 @@ text-align:center;}
   color: #fff;
   text-decoration: none;
 }
-
+.posts_box .thumbnail a {
+  color:#000;
+}
 .posts_box a:hover {
   background-color: #e5e5e5; }
 

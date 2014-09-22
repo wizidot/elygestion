@@ -6,51 +6,14 @@ tagline: ""
 tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
 ---
 {% include JB/setup %}
-
-# Medicamina medio in pro utramque alter quos
-
-## Germanae verba steterat Hiberis utere Melas non
-
-[Lorem markdownum doleres](http://www.youtube.com/watch?v=MghiBW3r65M) plangit.
-Haud esse moribundo, in visaque, domitos **nec** cuspide, si suco erat semper
-ibis Phoeboque habebit insano.
-
-    var artificialPermalinkAdd = memory(prebinding_jre.art(pcbLinkedin, 5,
-            dynamic_irq_piracy), ieee) + 1 * path + -5 + 2;
-    alignmentPerl = 2 * itunes(4);
-    var ibm_e_reader = skinAscii(internetCardBiometrics) * 44 +
-            firmware_bar.kibibyte_text_sli(bios_dv_format, adHub);
-    if (tweenCyberbullyingGigahertz) {
-        mca_secondary_unicode = visualRom + pixel_prom_app - 4;
-        commerceModem(wheel + nullComputer);
-    }
-
-Raptaeque excusat, illa mutat. Dumque nova nunc que ducentem mihi te, est esses
-esse; dum.
-
-## Orithyia tuum sine sentit crudelis
-
-Manusque sed grege nuper et divinante incursant dextra volucris ferarum
-ingemuere inhaerebat quotiens fonti. Coeperunt aliquo, sub quem ciet Phasias.
-
-- Nec herbas coepit
-- Eratque at mihi
-- At manus precanti inundet
-- Caede peregrinaeque serpit turritaque nefas
-- Movit matrum esset ilice munera
-
-Genitor non triste et incommendataque poena hoc *e* convertit matri rictus
-stabat! Valvis perlucidus: tibi duo altae *fidem agrestibus condit*; est aevum,
-speciosa gerentem. Gemuit pondus pectus, relinquit gemitus umeri hospes,
-dederitis superi rugosoque vindicis et **quinquennia venit**. Carpitur iuvenci
-moles *incenduntque redeuntis* ultima.
-
-Pro cultores melior: discederet ego longius [fronti](http://heeeeeeeey.com/).
-Premitur loquenti. **Ad heu**, aer in alto trepidantis perveni eque
-[colorem](http://textfromdog.tumblr.com/). Gemit te fatebor vineta togaque alto
-agmina alienisque perque nulla grates proxima pomi concubiturus hamis hippomene.
-Fuso sonant in et praemia, Maenalon dique quod qua.
-
-[Lorem markdownum doleres]: http://www.youtube.com/watch?v=MghiBW3r65M
-[colorem]: http://textfromdog.tumblr.com/
-[fronti]: http://heeeeeeeey.com/
+<div class="row">
+<div class="col-md-12 col-lg-12">
+        <img src="{{ ASSET_PATH }}/metiers/gestion_technique.png" class="img-responsive">
+</div>
+<div class="col-md-10 col-md-offset-1 text-center">
+ <p><strong>Lorem ipsum Aliquip cupidatat dolore do ea ex sed tempor occaecat ad in tempor et proident officia ea ullamco in aliqua Duis id eu amet nostrud mollit dolore Ut enim irure amet labore incididunt non velit reprehenderit culpa ut in in sint aute nisi exercitation culpa sint ut exercitation officia sunt velit velit sit nostrud aliqua nisi</strong><br/><br/>voluptate enim dolore magna in nulla ullamco Ut qui in Excepteur enim nulla pariatur laboris deserunt consectetur id sunt laboris non qui occaecat voluptate anim ut occaecat cupidatat elit sint irure magna magna id id fugiat aliqua deserunt labore do ad ut dolor esse irure aliquip labore do ea eiusmod aliqua ad ullamco exercitation<br/> qui id dolor culpa consequat eu qui sed culpa ea voluptate Excepteur Ut mollit mollit commodo eu ut non dolor in nisi qui laboris in nisi dolore dolor amet consequat dolor sed ullamco consequat Ut esse ut amet do cillum aliqua ullamco fugiat in commodo ea reprehenderit Duis fugiat.</p>
+<p><strong>Lorem ipsum Aliquip cupidatat dolore do ea ex sed tempor occaecat ad in tempor et proident officia ea ullamco in aliqua Duis id eu amet nostrud mollit dolore Ut enim irure amet labore incididunt non velit reprehenderit culpa ut in in sint aute nisi exercitation culpa sint ut exercitation officia sunt velit velit sit nostrud aliqua nisi</strong><br/><br/>voluptate enim dolore magna in nulla ullamco Ut qui in Excepteur enim nulla pariatur laboris deserunt consectetur id sunt laboris non qui occaecat voluptate anim ut occaecat cupidatat elit sint irure magna magna id id fugiat aliqua deserunt labore do ad ut dolor esse irure aliquip labore do ea eiusmod aliqua ad ullamco exercitation<br/> qui id dolor culpa consequat eu qui sed culpa ea voluptate Excepteur Ut mollit mollit commodo eu ut non dolor in nisi qui laboris in nisi dolore dolor amet consequat dolor sed ullamco consequat Ut esse ut amet do cillum aliqua ullamco fugiat in commodo ea reprehenderit Duis fugiat.</p>
+<p><strong>Lorem ipsum Aliquip cupidatat dolore do ea ex sed tempor occaecat ad in tempor et proident officia ea ullamco in aliqua Duis id eu amet nostrud mollit dolore Ut enim irure amet labore incididunt non velit reprehenderit culpa ut in in sint aute nisi exercitation culpa sint ut exercitation officia sunt velit velit sit nostrud aliqua nisi</strong><br/><br/>voluptate enim dolore magna in nulla ullamco Ut qui in Excepteur enim nulla pariatur laboris deserunt consectetur id sunt laboris non qui occaecat voluptate anim ut occaecat cupidatat elit sint irure magna magna id id fugiat aliqua deserunt labore do ad ut dolor esse irure aliquip labore do ea eiusmod aliqua ad ullamco exercitation<br/> qui id dolor culpa consequat eu qui sed culpa ea voluptate Excepteur Ut mollit mollit commodo eu ut non dolor in nisi qui laboris in nisi dolore dolor amet consequat dolor sed ullamco consequat Ut esse ut amet do cillum aliqua ullamco fugiat in commodo ea reprehenderit Duis fugiat.</p>
+<p><strong>Lorem ipsum Aliquip cupidatat dolore do ea ex sed tempor occaecat ad in tempor et proident officia ea ullamco in aliqua Duis id eu amet nostrud mollit dolore Ut enim irure amet labore incididunt non velit reprehenderit culpa ut in in sint aute nisi exercitation culpa sint ut exercitation officia sunt velit velit sit nostrud aliqua nisi</strong><br/><br/>voluptate enim dolore magna in nulla ullamco Ut qui in Excepteur enim nulla pariatur laboris deserunt consectetur id sunt laboris non qui occaecat voluptate anim ut occaecat cupidatat elit sint irure magna magna id id fugiat aliqua deserunt labore do ad ut dolor esse irure aliquip labore do ea eiusmod aliqua ad ullamco exercitation<br/> qui id dolor culpa consequat eu qui sed culpa ea voluptate Excepteur Ut mollit mollit commodo eu ut non dolor in nisi qui laboris in nisi dolore dolor amet consequat dolor sed ullamco consequat Ut esse ut amet do cillum aliqua ullamco fugiat in commodo ea reprehenderit Duis fugiat.</p>
+</div>
+</div>
