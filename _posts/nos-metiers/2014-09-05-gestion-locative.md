@@ -10,7 +10,7 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
 <div class="row">
     <div class="col-md-12 col-lg-12">
       <div class="thumbnail">
-        <img src="{{ ASSET_PATH }}/metiers/metiertop5_03.png" class="img-responsive">
+        <img src="{{ ASSET_PATH }}/metiers/img/metiertop5_03.jpg" class="img-responsive">
       </div>
     </div>
     <div class="col-md-12 col-lg-12 text-center">

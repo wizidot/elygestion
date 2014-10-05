@@ -10,7 +10,7 @@ tags : ["Gestion locative","Gestion technique et charges","Syndicat de copropri√
 <div class="row">
     <div class="col-md-12 col-lg-12">
       <div class="thumbnail">
-        <img src="{{ ASSET_PATH }}/metiers/metiertop4_03.png" class="img-responsive">
+        <img src="{{ ASSET_PATH }}/metiers/img/metiertop4_03.jpg" class="img-responsive">
       </div>    </div>
     <div class="col-md-12 col-lg-12 text-center">
       <h3>Gestion locative compl√®te<br/>
