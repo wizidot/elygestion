@@ -12,7 +12,7 @@ tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
         <img src="{{ ASSET_PATH }}/metiers/img/gestion_technique.jpg" class="img-responsive">
 </div>
 <div class="col-md-10 col-md-offset-1 text-center">
-
+<br/><br/>
 Société indépendante, Elygestion P.M. intervient dans le domaine du conseil et de la gestion d’actifs tertiaires pour le compte d’investisseurs institutionnels ou propriétaires privés. Dotée d’une équipe de 7 personnes, et avec plus de 400 000 m2 gérés, Elygestion apporte un service global à ses clients : gestion, syndic de copropriété, conseil en investissement...<br/>
 Avec son expérience (création en 2004), Elygestion s’est imposée dans la région Lyonnaise en s’adaptant aux besoins spécifiques de ses clients et en garantissant une gestion  dynamique et efficace.<br/><br/>
 
