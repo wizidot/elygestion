@@ -13,14 +13,7 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
     </div>
     <div class="col-md-12 col-lg-12 text-center">
     <p>
-      <h3>Syndicat de copropriété<br/>
-          Représentation du syndicat de propriété et administration des parties communes</h3>
-    <ul>
-      <li>Gestion des parties communes d'un immeuble ou d'un site (parcs d'affires)</li>
-      <li>Gestion d'A.S.L., A.F.U.L.</li>
-      <li>Représentation du syndicat dans la gestion du bien immobilier.</li>
-      <li>Respect des diverses règlementations juridiques (Loi 1965, Loi S.R.U.), techniques, gestion des charges</li>
-      <li>Convocations et tenues d'assemblées générales.</li>
-    </ul>
+      <h3>Gestion de copropriété : </h3><br />
+     Gestion des parties communes dans le respect des dispositions législatives (loi 1965, loi SRU, loi Alur). Le fonctionnement et l’organisation de la gestion d’une copropriété sont identiques à ceux d’une copropriété de logement. Toutefois, la gestion technique liée à la classification de l’immeuble est la différence capitale, nécessitant l’expertise d’un professionnel. Avec plus de 200 000 m2 gérés, Elygestion est votre partenaire dans la gestion des copropriétés, mais également d’ASL et d’AFUL, en immobilier tertiaire.
     </p>
 </div>

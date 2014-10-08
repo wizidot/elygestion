@@ -13,14 +13,7 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
     </div>
     <div class="col-md-12 col-lg-12 text-center">
     <p>
-      <h3>Gestion technique et charges<br/>
-          La gestion locative est conservée par le bailleur, les gestionnaires ont pour mission la gestion technique de l'immeuble avec ou sans gestion des charges</h3>
-    <ul>
-      <li>Gestion des parties communes d'un immeuble ou d'un site (parcs d'affaires)</li>
-      <li>Gestion d'A.S.L, A.F.U.L.</li>
-      <li>Représentaiton du syndicat dans gestion du bien immobilier</li>
-      <li>Respect des diverses règlementations juridiques (Loi 1965, Loi S.R.U.), techniques, gestion des charges</li>
-      <li>Convocations et tenues d'assemblées générales</li>
-    </ul>
+      <h3>Gestion Technique : </h3><br /><br />
+    Le gestionnaire a pour mission le suivi de l’immeuble au niveau des charges et des équipements techniques. Il présente à son mandant un budget détaillé avec des propositions de valorisation. En fonction du mandat, le gestionnaire établit des reportings sur l’état de santé du bâtiment et conseille son client sur la stratégie technique à adopter (plan pluriannuel de travaux).
     </p>
 </div>

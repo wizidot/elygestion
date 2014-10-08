@@ -14,7 +14,8 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
     <div class="col-md-12 col-lg-12 text-center">
       <hr />
     <p>
-      <h3>Gestion d'entrepôts<br/>
-          Gestion essentiellement technique de surface de stockage, logistique, avec des installations classées I.C.P.E.</h3><br/><br/>
+      <h3>Gestion de bases logistiques :</h3><br/>
+      Avec plus de 150 000 m2 de base logistique en portefeuille, Elygestion fait partie des spécialistes Lyonnais dans ce domaine nécessitant notamment des compétences spécifiques en matière réglementaire (respect des autorisations et arrêtés préfectoraux).
+      Les équipes d’Elygestion sont formées pour gérer des Installations Classées Protection Environnement (ICPE).<br/><br/>
     </p>
 </div>
