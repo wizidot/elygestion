@@ -9,7 +9,7 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
 {% include JB/setup %}
 <div class="row">
     <div class="col-md-12 col-lg-12">
-        <img src="{{ ASSET_PATH }}/metiers/img/gestion_technique.jpg" class="img-responsive">
+        <img src="{{ ASSET_PATH }}/metiers/img/metiertop2_03.jpg" class="img-responsive">
     </div>
     <div class="col-md-12 col-lg-12 text-center">
     <p>

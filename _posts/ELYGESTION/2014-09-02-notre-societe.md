@@ -9,7 +9,7 @@ tags : ["notre équipe","nos références","nos actifs gérés","actualités"]
 
 <div class="row">
 <div class="col-md-12 col-lg-12">
-        <img src="{{ ASSET_PATH }}/metiers/img/gestion_technique.jpg" class="img-responsive">
+        <img src="{{ ASSET_PATH }}/equipe.jpg" class="img-responsive">
 </div>
 <div class="col-md-10 col-md-offset-1 text-center">
 <br/><br/>
@@ -19,7 +19,7 @@ Avec son expérience (création en 2004), Elygestion s’est imposée dans la r�
 <strong>Un métier, des savoir-faire...</strong><br/>
 
 La gestion d’actifs tertiaires ou Property Management est un métier qui nécessite des compétences variées. Pour accompagner toujours plus loin ses clients, Elygestion est dotée d’un service Gestion, d’un service Copropriété, d’un service Technique et d’un service Comptable.<br/><br/>
-A votre écoute de 8h00 à 19h00, Elygestion s’engage à répondre sous 24h maximum à toute demande, qu’elle émane du propriétaire ou du locataire. Pour connaître tous nos engagements, <a href="/contact/" alt="contactez-nous">contactez-nous</a>.<br/><br/>
+Á votre écoute de 8h00 à 19h00, Elygestion s’engage à répondre sous 24h maximum à toute demande, qu’elle émane du propriétaire ou du locataire. Pour connaître tous nos engagements, <a href="/contact/" alt="contactez-nous">contactez-nous</a>.<br/><br/>
 Par la connaissance de son marché et des différents acteurs de l’immobilier d’entreprises Lyonnais (promoteurs, propriétaires, commercialisateurs), Elygestion accompagne ses clients propriétaires en apportant ses conseils et son expertise notamment lors de l’acquisition d’un actif (audit technique, prévisionnel travaux, analyse des baux) de manière à sécuriser au maximum l’investissement.
 </div>
 </div>

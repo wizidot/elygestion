@@ -4,7 +4,7 @@ category : nos-metiers
 title : "Gestion d'entrepôts"
 image : "metiers/metier_09.png"
 tagline: ""
-tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de copropriété","Gestion d'entrepôts"]
+tags : ["Gestion locative","Gestion locative complète","Gestion technique et charges","Syndicat de copropriété"]
 ---
 {% include JB/setup %}
 <div class="row">
