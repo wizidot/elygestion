@@ -3,7 +3,7 @@ layout: post
 category : actualites
 title : "actualités"
 tagline: ""
-tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
+tags : ["notre société","notre équipe","nos actifs gérés","nos références"]
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 category : elygestion
 title : "notre société"
 tagline: ""
-tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
+tags : ["notre équipe","nos références","nos actifs gérés","actualités"]
 ---
 {% include JB/setup %}
 

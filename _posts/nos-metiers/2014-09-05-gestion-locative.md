@@ -14,8 +14,7 @@ tags : ["Gestion locative complète","Gestion technique et charges","Syndicat de
       </div>
     </div>
     <div class="col-md-12 col-lg-12 text-center">
-      <h3>Gestion locative<br/><br/>
-          Suivi juridique et financier des baux commerciaux pour le compte du bailleur</h3><br/><br/>
+      <h3>Gestion locative</h3><br/><br/>
           Gestion d’un immeuble comprenant l’ensemble des missions comptables, administratives et juridiques. Le gestionnaire a essentiellement la responsabilité du bail commercial (loyer, indexation, renouvellement...). La gestion devient complète lorsque l’immeuble est géré dans sa totalité, comprenant également la mission de maîtrise des charges et le suivi technique de l’actif.<br/><br/>
     </div>
 </div>

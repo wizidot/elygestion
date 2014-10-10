@@ -3,7 +3,7 @@ layout: post
 category : elygestion
 title : "notre équipe"
 tagline: "Des professionnels expérimentés à votre écoute :"
-tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
+tags : ["notre société","nos références","nos actifs gérés","actualités"]
 ---
 {% include JB/setup %}
 
@@ -16,9 +16,10 @@ tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
     </div></div>
     <div class="col-md-6 col-lg-3"><div class="content thumbnail">
         <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/equipe_05.png" class="img-responsive">
-        <p><b>Christine Lyonnet</b><br />
-        Responsable Comptable.</p><br>
-        <a href="mailto:clyonnet@elygestion.fr">clyonnet@elygestion.fr</a><br/><br/>
+                <p><b>Ramona Colmenero</b><br />
+        Gestionnaire</p><br>
+        <a href="mailto:rcolmenero@elygestion.fr">rcolmenero@elygestion.fr</a><br/><br/>
+
     </div></div>
     <div class="col-md-6 col-lg-3"><div class="content thumbnail">
         <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/equipe_07.png" class="img-responsive">
@@ -28,9 +29,10 @@ tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
     </div></div>
         <div class="col-md-6 col-lg-3"><div class="content thumbnail">
         <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/equipe_09.png" class="img-responsive">
-        <p><b>Ramona Colmenero</b><br />
-        Gestionnaire</p><br>
-        <a href="mailto:rcolmenero@elygestion.fr">rcolmenero@elygestion.fr</a><br/><br/>
+
+        <p><b>Marie José Ramos</b><br />
+        Assistante copropriété.</p><br>
+        <a href="mailto:mjramos@elygestion.fr">mjramos@elygestion.fr</a><br/><br/>
     </div></div>
      <div class="clearfix"></div>
     <div class="col-md-6 col-lg-3"><div class="content thumbnail">
@@ -40,9 +42,9 @@ tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
         <a href="mailto:kmaadi@elygestion.fr">kmaadi@elygestion.fr</a><br/><br/>
     </div></div>    <div class="col-md-6 col-lg-3"><div class="content thumbnail">
         <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/equipe_17.png" class="img-responsive">
-        <p><b>Marie José Ramos</b><br />
-        Assistante copropriété.</p><br>
-        <a href="mailto:mjramos@elygestion.fr">mjramos@elygestion.fr</a><br/><br/>
+        <p><b>Christine Lyonnet</b><br />
+        Responsable Comptable.</p><br>
+        <a href="mailto:clyonnet@elygestion.fr">clyonnet@elygestion.fr</a><br/><br/>
     </div></div>
     <div class="col-md-6 col-lg-3"><div class="content thumbnail">
         <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/equipe_18.png" class="img-responsive">

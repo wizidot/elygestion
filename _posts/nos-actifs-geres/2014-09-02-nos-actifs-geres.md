@@ -3,7 +3,7 @@ layout: post
 category : nos-actifs-geres
 title : "nos actifs gérés"
 tagline: ""
-tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
+tags : ["notre société","notre équipe","nos références","actualités"]
 ---
 {% include JB/setup %}
 <div class="row" style="color:#0d405e;">

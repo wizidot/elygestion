@@ -14,7 +14,7 @@ tags : ["Gestion locative","Gestion technique et charges","Syndicat de copropri�
       </div>    </div>
     <div class="col-md-12 col-lg-12 text-center">
       <h3>Gestion locative complète<br/>
-          Gestion locative de la totalité d'un immeuble qui intègre l'aspect technique et la gestion des charges.</h3>
+          Gestion locative de la totalité d'un immeuble qui intègre l'aspect technique et la gestion des charges</h3><br/><br/>
     <ul>
       <li>Technique du bâtiment : respect de nombreuses réglementations en vigueur, plan de travaux sur 5 ans, rapport technique sur la 'santé' du bâtiment, suivi des travaux, conseil...</li>
       <li>Gestion des charges : établissement du budget, répartition des charges sur les locataires, souscription des contrats réglementaires, gestion des sinistres... des procédures, conseil au niveau des réglementations techniques.</li>
