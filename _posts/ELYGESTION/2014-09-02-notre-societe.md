@@ -9,7 +9,7 @@ tags : ["notre équipe","nos références","nos actifs gérés","actualités"]
 
 <div class="row">
 <div class="col-md-12 col-lg-12">
-        <img src="{{ ASSET_PATH }}/equipe.jpg" class="img-responsive">
+  <div class="thumbnail"><img src="{{ ASSET_PATH }}/equipe.jpg" class="img-responsive"></div>
 </div>
 <div class="col-md-10 col-md-offset-1 text-center">
 <br/><br/>
