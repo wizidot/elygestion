@@ -41,8 +41,3 @@
           {% endif %}
         {% endfor %}
 {% endif %}
-<li class="col-md-3 col-xs-6">
-<div class="jumbotron">
-              <a href="{{ BASE_PATH }}/actualites.html">Actualités</a>
-              </div>
-</li>

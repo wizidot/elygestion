@@ -33,6 +33,13 @@ Nos autres mêtiers
       {% assign tags_list = page.tags %}
       {% assign posts_list = site.posts %}
       {% include JB/tags_list %}
+      {% if page.tags contains "actualités" %}
+      <li class="col-md-3 col-xs-6">
+        <div class="jumbotron">
+        <a href="{{ BASE_PATH }}/actualites.html">Actualités</a>
+        </div>
+      </li>
+      {% endif %}
     </ul>
   {% endunless %}
 
