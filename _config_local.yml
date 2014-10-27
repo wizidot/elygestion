@@ -31,7 +31,7 @@ ELYGESTION :
     - {name: 'elygestion',title: 'elygestion', description: 'category elygestion', order: 1}
     - {name: 'nos-actifs-geres',title: 'nos actifs gérés', description: 'another category description', order: 3}
     - {name: 'nos-metiers',title: 'nos mêtiers', description: 'another category description', order: 2}
-    - {name: 'actualites',title: 'actualités', description: 'another category description', order: 4}
+    #- {name: 'actualites',title: 'actualités', description: 'another category description', order: 4}
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
