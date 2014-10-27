@@ -29,18 +29,18 @@ Nos autres mêtiers
 {% endif %}
 </h2>
   {% unless page.tags == empty %}
-    <ul class="posts_box">
+  <div class="row posts_box">
       {% assign tags_list = page.tags %}
       {% assign posts_list = site.posts %}
       {% include JB/tags_list %}
       {% if page.tags contains "actualités" %}
-      <li class="col-md-3 col-xs-6">
-        <div class="jumbotron">
-        <a href="{{ BASE_PATH }}/actualites.html">Actualités</a>
+        <div class="col-md-3 col-xs-6">
+          <div class="jumbotron">
+            <a href="{{ BASE_PATH }}/actualites.html">Actualités</a>
+          </div>
         </div>
-      </li>
       {% endif %}
-    </ul>
+  </div>
   {% endunless %}
 
     <ul class="pagination visible-xs">

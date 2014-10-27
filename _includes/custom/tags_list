@@ -3,7 +3,7 @@
      {% for tag in tags_list %}
         {% for post in posts_list %}
           {% if post.title == tag|lowercase %}
-          <li class="col-md-3 col-xs-6">
+          <div class="col-md-3 col-xs-6">
             {% if post.image %}
               <div class="content">
               <div class="thumbnail">
@@ -16,14 +16,14 @@
               <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
               </div>
             {% endif %}
-            </li>
+            </div>
           {% endif %}
         {% endfor %}
     {% endfor %}
   {% else %}
   {% for post in posts_list %}
           {% if post.title == tag[0]|lowercase %}
-          <li class="col-md-3 col-xs-6">
+          <div class="col-md-3 col-xs-6">
             {% if post.image %}
             <div class="content">
               <div class="thumbnail">
@@ -37,7 +37,8 @@
               <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
               </div>
             {% endif %}
-          </li>
+          </div>
           {% endif %}
         {% endfor %}
 {% endif %}
+
