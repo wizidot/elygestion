@@ -52,7 +52,7 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/008.jpg" class="img-responsive">
-<h2>Le 6_me Avenue <small>25000 m²</small></h2>
+<h2>Le 6 éme Avenue <small>25000 m²</small></h2>
 <br><br>
 </div>
 
@@ -70,25 +70,25 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/011.jpg" class="img-responsive">
-<h2>Le Quartz <small>7800 m²</smal></h2>
+<h2>Le Quartz <small>7800 m²</small></h2>
 <br><br>
 </div>
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/012.jpg" class="img-responsive">
-<h2>Marché de Gros <small>40000 m²</smal></h2>
+<h2>Marché de Gros <small>40000 m²</small></h2>
 <br><br>
 </div>
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/013.jpg" class="img-responsive">
-<h2>Vénissieux Base logistique <small>25000 m²</smal></h2>
+<h2>Vénissieux Base logistique <small>25000 m²</small></h2>
 <br><br>
 </div>
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/014.jpg" class="img-responsive">
-<h2>Yellow Square <small>2200 m²</smal></h2>
+<h2>Yellow Square <small>2200 m²</small></h2>
 <br><br>
 </div>
 
