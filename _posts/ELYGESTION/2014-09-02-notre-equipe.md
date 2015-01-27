@@ -52,4 +52,10 @@ tags : ["notre société","nos références","nos actifs gérés","actualités"]
         Comptable.</p><br>
         <a href="mailto:smottet@elygestion.fr">smottet@elygestion.fr</a><br/><br/>
     </div></div>
+        <div class="col-md-6 col-lg-3"><div class="content thumbnail">
+        <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/img/equipe_19.png.jpg" class="img-responsive">
+        <p><br />
+        </p><br>
+        <br/><br/>
+    </div></div>
 </div>
