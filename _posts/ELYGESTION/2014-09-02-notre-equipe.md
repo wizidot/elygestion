@@ -54,8 +54,8 @@ tags : ["notre société","nos références","nos actifs gérés","actualités"]
     </div></div>
         <div class="col-md-6 col-lg-3"><div class="content thumbnail">
         <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/img/equipe_19.png.jpg" class="img-responsive">
-        <p><br />
-        </p><br>
+        <p><b>Ana Pacotte</b></p>
+        <a href="mailto:apacotte@elygestion.fr">apacotte@elygestion.fr</a>
         <br/><br/>
     </div></div>
 </div>
