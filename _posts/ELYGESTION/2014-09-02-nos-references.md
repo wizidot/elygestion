@@ -13,4 +13,4 @@ tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
     <br><br>
     </div>
 {% endfor %}
-</div>
+</div><!--refernces-->
