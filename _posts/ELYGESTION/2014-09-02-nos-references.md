@@ -1,7 +1,7 @@
 ---
 layout: post
 category : elygestion
-title : "nos références"
+title : "Nos références"
 tagline: ""
 tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
 ---
