@@ -10,8 +10,8 @@ tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
 {% for post in site.categories["references"] %}
        <div class="col-md-6 col-lg-4">
         <img src="{{ ASSET_PATH }}/references/{{post.image}}" class="img-responsive" alt="{{post.title}}">
-       <p> ... et de nombreux autres références </p>
     <br><br>
     </div>
 {% endfor %}
+...et de nombreux autres références
 </div>
