@@ -13,5 +13,5 @@ tags : ["notre société","notre équipe","nos actifs gérés","actualités"]
     <br><br>
     </div>
 {% endfor %}
-<h3 style="text-align=center", margin-top="15px"> ...et de nombreuses autres références </h3>
+<h3 style="text-align=center, margin-top=15px"> ...et de nombreuses autres références </h3>
 </div>
