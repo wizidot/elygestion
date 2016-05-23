@@ -14,19 +14,12 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 <br><br>
 </div>
 
-
-
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/003.jpg" class="img-responsive">
 <h2>Cité Internationale <small>7500 m²</small></h2>
 <br><br>
 </div>
 
-<div class="col-md-6 col-lg-4">
-<img src="{{ ASSET_PATH }}/actifs/004.jpg" class="img-responsive">
-<h2>Dagneux Activité <small>13000 m²</small></h2>
-<br><br>
-</div>
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/005.jpg" class="img-responsive">
@@ -76,11 +69,6 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 <br><br>
 </div>
 
-<div class="col-md-6 col-lg-4">
-<img src="{{ ASSET_PATH }}/actifs/013.jpg" class="img-responsive">
-<h2>Vénissieux Base logistique <small>25000 m²</small></h2>
-<br><br>
-</div>
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/014.jpg" class="img-responsive">
