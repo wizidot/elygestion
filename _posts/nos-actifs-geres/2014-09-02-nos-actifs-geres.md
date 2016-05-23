@@ -9,6 +9,12 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 <div class="row" style="color:#0d405e;">
 
 <div class="col-md-6 col-lg-4">
+<img src="{{ ASSET_PATH }}/actifs/courmont.png" class="img-responsive">
+<h2>Le Courmont <small>4000m2</small></h2>
+<br><br>
+</div>
+
+<div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/001.jpg" class="img-responsive">
 <h2>Baly Building <small>7000 m²</small></h2>
 <br><br>
