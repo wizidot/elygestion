@@ -35,25 +35,25 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/partdieu.png" class="img-responsive">
-<h2>Gestion locative<small>12000 m²</small></h2>
+<h2>Gestion locative <small>12000 m²</small></h2>
 <br><br>
 </div>
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/cesar.png" class="img-responsive">
-<h2>Le César<small>4000 m²</small></h2>
+<h2>Le César <small>4000 m²</small></h2>
 <br><br>
 </div>
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/parc.png" class="img-responsive">
-<h2> Parc d’affaire Crecy<small>27000 m²</small></h2>
+<h2> Parc d’affaire Crecy <small>27000 m²</small></h2>
 <br><br>
 </div>
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/vikings.png" class="img-responsive">
-<h2>Les Vikings<small>10000 m²</small></h2>
+<h2>Les Vikings <small>10000 m²</small></h2>
 <br><br>
 </div>
 
