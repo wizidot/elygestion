@@ -10,7 +10,7 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/courmont.png" class="img-responsive">
-<h2>Le Courmont <small>4000m2</small></h2>
+<h2>Le Courmont <small>4000 m2</small></h2>
 <br><br>
 </div>
 
