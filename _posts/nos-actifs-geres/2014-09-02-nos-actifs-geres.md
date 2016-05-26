@@ -34,7 +34,7 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 </div>
 
 <div class="col-md-6 col-lg-4">
-<img src="{{ ASSET_PATH }}/boostrap/image/partdieu.png" class="img-responsive">
+<img src="{{ ASSET_PATH }}/actifs/partdieu.png" class="img-responsive">
 <h2>Gestion locative <small>12000 m²</small></h2>
 <br><br>
 </div>
