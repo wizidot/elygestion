@@ -2,7 +2,7 @@
 layout: post
 category : elygestion
 title : "notre équipe"
-tagline: "Des professionnels expérimentés à votre écoute:"
+tagline: "Des professionnels expérimentés à votre écoute :"
 tags : ["notre société","nos références","nos actifs gérés","actualités"]
 ---
 {% include JB/setup %}
