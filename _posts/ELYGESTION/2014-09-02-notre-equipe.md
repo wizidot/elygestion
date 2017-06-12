@@ -10,7 +10,7 @@ tags : ["notre société","nos références","nos actifs gérés","actualités"]
 <div class="row">
     <div class="col-md-6 col-lg-3"><div class="content thumbnail">
         <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/img/equipe_03.png.jpg" class="img-responsive">
-        <p><b>Robert Herpoyan</b><br />
+        <p><b>Robert Herpoyans</b><br />
         Dirigeant – Gestionnaire.</p><br>
         <a href="mailto:rherpoyan@elygestion.fr">rherpoyan@elygestion.fr</a><br/><br/>
     </div></div>
