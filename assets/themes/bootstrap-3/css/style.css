@@ -1,5 +1,9 @@
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{color:#0d405e;}
 
+body{
+    font-size:16px;
+}
+
 .text-center ul {
     list-style-position: inside;
     list-style-type: square;
@@ -73,7 +77,12 @@ h2.heading { border: 1px solid #0d405e;border-width: 4px 0 1px 0; padding-top: 5
 .post > h3.title span.date {
   position: absolute;
   right: 0;
-  font-size: 0.9em; }
+  
+    
+    
+    
+    
+    -size: 0.9em; }
 
 .post > .more {
   margin: 10px 0;
