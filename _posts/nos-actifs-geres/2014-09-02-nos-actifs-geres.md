@@ -47,7 +47,7 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/parc.png" class="img-responsive">
-<h2> Parc d’affaire Crecy <small>27000 m²</small></h2>
+<h2> Parc d’affaires Crécy <small>27000 m²</small></h2>
 <br><br>
 </div>
 
@@ -60,7 +60,7 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/006.jpg" class="img-responsive">
-<h2>K-Ouest 9400 <small>9400 m²</small></h2>
+<h2>K-Ouest <small>9400 m²</small></h2>
 <br><br>
 </div>
 
@@ -72,7 +72,7 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/008.jpg" class="img-responsive">
-<h2>Le 6 éme Avenue <small>25000 m²</small></h2>
+<h2>Le 6éme Avenue <small>25000 m²</small></h2>
 <br><br>
 </div>
 
