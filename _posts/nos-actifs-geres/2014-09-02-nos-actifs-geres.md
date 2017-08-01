@@ -47,7 +47,8 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 
 <div class="col-md-6 col-lg-4">
 <img src="{{ ASSET_PATH }}/actifs/parc.png" class="img-responsive">
-<h2> Parc d’affaires Crécy <small>27000 m²</small></h2>
+<h2 style="letter-spacing: -0.5px;">Parc d’affaires Crécy <small>27000 m²</small></h2>
+<br><br>
 </div>
 
 <div class="col-md-6 col-lg-4">
