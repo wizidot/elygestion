@@ -106,4 +106,10 @@ tags : ["notre société","notre équipe","nos références","actualités"]
 <br><br>
 </div>
 
+<div class="col-md-6 col-lg-4">
+<img src="{{ ASSET_PATH }}/actifs/016.png" class="img-responsive">
+<h2>Les Allées du Parc <small>6000 m²</small></h2>
+<br><br>
+</div>
+
 </div>
