@@ -56,7 +56,8 @@ tags : ["notre société","nos références","nos actifs gérés","actualités"]
         <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/img/equipe_19.png" class="img-responsive">
         <p><b> Flavien Tonnelier</b></p>
         <a href="mailto:ftonnelier@elygestion.fr">ftonnelier@elygestion.fr</a>
-        <br/><br/>
+        <br/><br/><br/><br/>
+          
     </div></div>
     <div class="col-md-6 col-lg-3"><div class="content thumbnail">
         <img src="{{ ASSET_PATH }}/bootstrap/images/equipe/img/equipe_20.png" class="img-responsive">
